@@ -1,0 +1,3 @@
+Avviare lo script appropriato al sistema operativo in uso ed al DBMS preferito.
+
+N.B.: E' necessario aggiungere al path di sistema la cartella /bin presente nella directory d'installazione del DBMS per il quale lo script sta venendo eseguito.

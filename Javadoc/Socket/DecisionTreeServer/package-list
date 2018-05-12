@@ -1,0 +1,13 @@
+com.mapgroup.classificator.boundary
+com.mapgroup.classificator.data
+com.mapgroup.classificator.database
+com.mapgroup.classificator.database.dao
+com.mapgroup.classificator.database.dialects
+com.mapgroup.classificator.filemanager
+com.mapgroup.classificator.filemanager.reader
+com.mapgroup.classificator.filemanager.writer
+com.mapgroup.classificator.mail
+com.mapgroup.classificator.mail.properties
+com.mapgroup.classificator.tree
+com.mapgroup.classificator.utility
+com.mapgroup.to

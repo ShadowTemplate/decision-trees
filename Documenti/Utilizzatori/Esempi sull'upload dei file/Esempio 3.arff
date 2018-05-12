@@ -1,0 +1,23 @@
+@relation playtennis
+
+@attribute outlook {overcast, rain, sunny}
+@attribute temperature REAL
+@attribute umidity {high, normal}
+@attribute wind {strong, weak}
+@attribute play {no, yes}
+
+@data
+overcast,12.5,high,strong,yes
+overcast,29.21,normal,weak,yes
+overcast,0.1,normal,strong,yes
+overcast,30.0,high,weak,yes
+rain,0.0,normal,strong,no
+rain,12.5,high,strong,no
+rain,13.0,high,weak,yes
+rain,0.0,normal,weak,yes
+rain,12.0,normal,weak,yes
+sunny,0.1,normal,weak,yes
+sunny,12.5,normal,strong,yes
+sunny,13.0,high,weak,no
+sunny,30.3,high,strong,no
+sunny,30.3,high,weak,no
