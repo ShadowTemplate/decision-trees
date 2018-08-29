@@ -3,7 +3,7 @@
 A client-server Java assignment on decision trees for the course of Advanced 
 Programming Methods. The software is implemented in two ways, one relying on 
 RMI and the other on traditional sockets. In addition, it offers a wide series 
-of functionalities, such as database integration and messaging capabalities.
+of functionalities, such as database integration and messaging capabilities.
 
 Please refer to the documentation for additional details on the project goal 
 and structure.
