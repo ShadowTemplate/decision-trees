@@ -19,7 +19,8 @@ and structure.
 
 **Development year(s)**: `2014`
 
-**Author(s)**: [aleSuglia](https://github.com/aleSuglia), Daniele, 
+**Author(s)**: [aleSuglia](https://github.com/aleSuglia), 
+[DanielsJD](https://github.com/DanielsJD), 
 [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
